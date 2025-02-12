@@ -48,9 +48,3 @@
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
-### 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=benjmilton&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjmilton&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</div>
