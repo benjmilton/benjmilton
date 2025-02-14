@@ -1,10 +1,11 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=benjmilton&color=blueviolet&style=flat-square" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=benjmilton&style=flat" alt="profile views" /> 
 </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=600&lines=A+Senior+Web+Developer;Hi+there!+I'm+Benjamin+%F0%9F%91%8B " alt="Typing SVG" />
 </div>
+
 
 ###  About me
 - 🔭 Currently working on Full Stack Web Applications
