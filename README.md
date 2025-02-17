@@ -2,17 +2,39 @@
   <img src="https://komarev.com/ghpvc/?username=benjmilton&style=flat" alt="profile views" /> 
 </p>
 
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=600&lines=A+Senior+Web+Developer;Hi+there!+I'm+Benjamin+%F0%9F%91%8B " alt="Typing SVG" />
 </div>
+-->
 
+## Hello, I’m Benjamin! 👋
 
-###  About me
-- 🔭 Currently working on Full Stack Web Applications
-- 🌱 Specializing in JavaScript, Python, PHP, and Java
-- 📚 Learning Rust and Go
-- 🤖 Knowledge in Data Science and Machine Learning using Python
-- 👯 Looking to collaborate on innovative Full Stack SAAS projects
+I’m a Senior Web Developer passionate about learning, creating, and solving problems. Based in Macedonia, I’ve dedicated my career to delivering high-quality solutions that positively impact people and businesses. My journey is marked by a constant pursuit of innovation, technical excellence, and social impact.
+
+## 🛠️ Technical Expertise
+
+Throughout my career, I’ve used a wide range of technologies and tools to tackle complex problems:
+
+### 🔹 Languages & Frameworks
+
+- TypeScript, JavaScript, Python, PHP, Ruby, Java
+- React, Angular, Vue, Next.js, Nuxt.js, Node.js, Express.js, Django, Flask, Laravel, Ruby on Rails, Spring Boot, Svelte, Symfony
+- WordPress, Shopify, Magento, Gatsby, Strapi
+
+### 🔹 Database Technologies
+- RDBMS: PostgreSQL, MySQL, SQLite, MS SQL Server
+- NoSQL: Redis, MongoDB
+- Search: Elasticsearch
+
+### 🔹 Cloud & Infrastructure
+- AWS, Google Cloud Platform, DigitalOcean
+- Container orchestration with Kubernetes & Docker Swarm
+- CI/CD pipeline design and implementation
+
+In my free time, I enjoy exploring topics like theology, philosophy, mathematics, and statistics. I also have a strong interest in creative projects, such as writing and drawing. My work is guided by Christian values of integrity, respect, and excellence. 🌱
+
+<!--
 
 ### 🛠️ Tech Stack
 
@@ -48,6 +70,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+-->
 
 <!--
 ### Github Status
